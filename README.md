@@ -1,3 +1,4 @@
+# 💫About Me :
 # <p align="center">Nguyễn Thanh Thiên</p>
 
 <p align="center">
@@ -27,97 +28,19 @@ namespace DevT
 }
 ```
 
-## <p align="center">❤️ You can reach me at ❤️</p>
-
+## 🌐Socials
 <p align="center">
-  <a href="https://www.facebook.com/NguyenThanhThien.Dev">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
-  </a>
-	
-  <a href="https://github.com/astemsThien">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/thanh-thi%C3%AAn-nguy%E1%BB%85n-911812266/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>
-  
-  <a href="mailto:nguyenthanhthien.dev.1602@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/NguyenThanhThien.Dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thanh-thi%C3%AAn-nguy%E1%BB%85n-911812266/) 
 </p>
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=thien&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thien&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thien&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## <p align="center">What I use 😘</p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=thien&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	 <a href="https://angular.io/docs">
-		<span>Angular</span><br><br><br>
-		<img height="64px" src="https://w7.pngwing.com/pngs/1014/365/png-transparent-angular-js-full-logo-tech-companies.png">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	<a href="https://docs.oracle.com/java/">
-		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-	      </a>
-      </td>
-    </tr>
-    <tr valign="top">
-	<td width="20%" align="center">
-		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-		</a>
-      </td>
-	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
-	      </a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-	      </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
-## <p align="center">Just a snake eating my contributions 🐍</p>
-
-<p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
-<br>
-
-##
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+---
+[![](https://visitcount.itsvg.in/api?id=thien&icon=0&color=0)](https://visitcount.itsvg.in)
