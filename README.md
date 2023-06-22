@@ -19,8 +19,8 @@ namespace DevT
         static void Main(string[] args)
         {
             string Name = "Nguyễn Thanh Thiên";
-            string Age = "2000";
-            string Gender = "Male";
+            string Age = "23";
+            string Gender = "Nam";
             string Address = "Tiền Giang, Việt Nam";
             string University = "Trường Đại Học Công Nghệ TP.HCM - HUTECH";
             string Skills = "C, C++, Python, Java, HTML, CSS, JavaScript, PHP, ReactJS, MYSQL, Angular, Svelte";
