@@ -1,6 +1,6 @@
 # <p align="center">Nguyễn Thanh Thiên</p>
 
-<pre style="background-color: #222; color: #eee;align="center"">
+<pre style="background-color: #222; color: #eee;display: flex; justify-content: center;align-items: center;">
 <center>
 <span>
 <span style="color: #4FED4F;">[PRIM4T@outreach <span style="color: #eee;">email</span>]$</span> send mail                
