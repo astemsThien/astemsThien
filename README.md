@@ -112,7 +112,7 @@ namespace DevT
 
 
 
-## <p align="center">Oɴᴇ✟Pɪᴇᴄᴇ</p>
+## <p align="center">ＯＮＥＰＩＥＣＥ</p>
 
 <p align='center'>
 <img src="https://i.pinimg.com/originals/cc/75/1c/cc751c52d8545a7cbcbeba7e7b049b5c.gif">
@@ -123,7 +123,7 @@ namespace DevT
 
 ##
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://genk.mediacdn.vn/2017/photo-1-1486094974723.jpg" alt="Synthwave" height="300" width="500"></p>
 
 
 
